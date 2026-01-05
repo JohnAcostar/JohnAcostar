@@ -9,12 +9,14 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JohnAcostar) ![Profile](https://komarev.com/ghpvc/?username=JohnAcostar&label=Profile%20views&color=0e75b6&style=flat) ![GitHub Stars](https://img.shields.io/github/stars/JohnAcostar?style=flat&label=Total%20Stars&color=f39c12) [![GitHub followers](https://img.shields.io/github/followers/JohnAcostar.svg?style=flat&label=Follow)](https://github.com/JohnAcostar?tab=followers)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-acosta-ibio/)
 
 </div>
-I'm a biomedical engineering student. I'm dedicated to enhancing my skills and contributing to improve the world of technology, healthcare and Global health innovation.
+I'm a biomedical engineering student. I'm dedicated to enhancing my skills and contributing to improve the world of technology, healthcare and Global health innovation. Besides, i´ve solid knowledge with a strong focus on software development, computer vision, biomedical data analysis, and intelligent systems. Experienced in applying computational methods, machine learning, and image analysis to real-world biomedical and clinical challenges. Also, my training in computational mathematics, machine learning, and bioinformatics has provided a solid foundation for building scalable, data-driven solutions in healthcare and research environments.
+
 ## Education
 - **Universidad de los Andes**, Bogotá, Colombia  
   -B.Sc. in Biomedical Engineering** (Aug 2022 – Present)
   
   *Minors
+  
     - Biology  
     - Bioinformatics  
     - Machine Learning  
