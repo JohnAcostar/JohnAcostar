@@ -13,11 +13,14 @@ I'm a biomedical engineering student. I'm dedicated to enhancing my skills and c
 ## Education
 - **Universidad de los Andes**, Bogotá, Colombia  
   -B.Sc. in Biomedical Engineering** (Aug 2022 – Present)
+  
   *Minors
     - Biology  
     - Bioinformatics  
     - Machine Learning  
     - Computational Mathematics
+
+
 ## Professional Experience
 - **Universidad de los Andes**, Bogotá, Colombia  
   **Teaching Assistant – Intro to Programming** (Jan 2024 – Jun 2024)  
@@ -72,6 +75,6 @@ For a detailed list of my projects and contributions, please visit my [GitHub pr
 
 - 📞 Phone: (+57) 3123276656
 - 📧 Email: ja.acostar1@outlook.com
-- 🔗 LinkedIn: [[linkedin.com/in/aarevalom](https://linkedin.com/in/aarevalom)](https://www.linkedin.com/in/john-acosta-ibio/)
+- 🔗 LinkedIn: [(https://linkedin.com/in/aarevalom)](https://www.linkedin.com/in/john-acosta-ibio/)
 - 🐙 GitHub: [github.com/johnacostar](https://github.com/johnacostar)
 - 🌐 Portfolio: 
