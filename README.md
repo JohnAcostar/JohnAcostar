@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aarevalom0) ![Profile](https://komarev.com/ghpvc/?username=aarevalom0&label=Profile%20views&color=0e75b6&style=flat) ![GitHub Stars](https://img.shields.io/github/stars/aarevalom0?style=flat&label=Total%20Stars&color=f39c12) [![GitHub followers](https://img.shields.io/github/followers/aarevalom0.svg?style=flat&label=Follow)](https://github.com/aarevalom0?tab=followers)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aarevalom/)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JohnAcostar) ![Profile](https://komarev.com/ghpvc/?username=JohnAcostar&label=Profile%20views&color=0e75b6&style=flat) ![GitHub Stars](https://img.shields.io/github/stars/JohnAcostar?style=flat&label=Total%20Stars&color=f39c12) [![GitHub followers](https://img.shields.io/github/followers/JohnAcostar.svg?style=flat&label=Follow)](https://github.com/JohnAcostar?tab=followers)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-acosta-ibio/)
 
 </div>
 I'm a biomedical engineering student. I'm dedicated to enhancing my skills and contributing to the world of technology and healthcare innovation.
