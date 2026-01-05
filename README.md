@@ -1,4 +1,4 @@
-<img src="Images\Professional Profile.svg" alt="header">
+<img src="Basnner.png" alt="header">
 
 <h1 align="center">
     <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D700A0&background=010000&center=true&vCenter=true&random=true&width=435&lines=%3C%2FAuthor%3E+I%C2%B4m+John+Acosta+;%3C%2FBody%3E+Welcome+to+my+GithHub" alt="Typing SVG" /></a>
