@@ -50,7 +50,7 @@ I'm a biomedical engineering student. I'm dedicated to enhancing my skills and c
 
 ## Skills
 
-- **Languages**: Spanish (Native), English (Intermediate)
+- **Languages**: Spanish (Native), English (C1), Portuguese (B1).
 - **Programming Languages**: Python, Java, JavaScript, C, HTML/CSS, R, Linux, SQL/NoSQL, NodeJS, GO
 - **Development Tools**: VS Code, Eclipse, Jupyter Notebook, COMSOL Multiphysics, Jalview, STAR-CCM+, ClustalW, Docker
 
